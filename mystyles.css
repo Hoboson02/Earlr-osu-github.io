@@ -3,6 +3,12 @@ p{
     font-size: 18px;
     color: black; 
 }
-h2{
-    color: turquoise
+h1{
+        background: linear-gradient(to top right, blue 0%,turquoise 90%)
 }
+a {
+    font-size: 18px;
+    color: #000000; }
+    a:hover {
+      color: #000000; }
+      
