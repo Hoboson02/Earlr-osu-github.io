@@ -3,7 +3,7 @@ p{
     font-size: 18px;
     color: black; 
 }
-h1{
+h1
         background: linear-gradient(to top right, blue 0%,turquoise 90%)
 }
 a {
@@ -11,4 +11,8 @@ a {
     color: #000000; }
     a:hover {
       color: #000000; }
+body {
+    background="Background crop.jpg" class="index"
+    background-color: blue;
+}
       
