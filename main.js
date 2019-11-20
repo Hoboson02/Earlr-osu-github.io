@@ -17,3 +17,4 @@ $( document ).ready(function() {
     });
   });
 });
+//https://hoboson02.github.io/Earlr-osu-github.io/. 
