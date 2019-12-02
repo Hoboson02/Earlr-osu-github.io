@@ -18,3 +18,5 @@ $( document ).ready(function() {
   });
 });
 //https://hoboson02.github.io/Earlr-osu-github.io/. 
+//https://stackoverflow.com/questions/31368328/how-to-add-functionality-a-bootstrap-search-bar
+//https://support.google.com/customsearch/answer/4513903?hl=en 
